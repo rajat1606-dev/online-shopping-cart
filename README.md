@@ -1,4 +1,6 @@
 # Online Shopping Cart - CLI Application
+Name - Rajat Rakesh 
+PRN - 20240802728
 
 A complete Python project for an Online Shopping Cart with Command Line Interface.
 
